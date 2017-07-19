@@ -1,0 +1,8 @@
+####################################
+# Database Connectivity Properties
+####################################
+
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/biblioteca
+username=root
+password=""

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;frm.frmCuenta.validar(...)&apos; to &apos;validarNumeroTarjeta&apos;&#x0D;&#x0A;- Original project: &apos;ProyectoAplicacionesDistr&apos;&#x0D;&#x0A;- Original element: &apos;frm.frmCuenta.validar(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;frm.frmCuenta.validarNumeroTarjeta(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;validar&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;frm{frmCuenta.java[frmCuenta~validar~QJTextField;~I" name="validarNumeroTarjeta" references="true" stamp="1498926210330" version="1.0"/>
+</session>

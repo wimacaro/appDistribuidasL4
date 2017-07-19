@@ -1,0 +1,5 @@
+jdbc=jdbc:mysql://127.0.0.1:
+puerto=3306/
+bd=cajero
+user=root
+clave=mysql

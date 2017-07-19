@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;servidor.java&apos; to &apos;servidor/src/frm&apos;&#x0D;&#x0A;- Original project: &apos;cliente&apos;&#x0D;&#x0A;- Destination element: &apos;servidor/src/frm&apos;&#x0D;&#x0A;- Original element: &apos;frm.servidor.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=servidor/src&lt;frm" element1="/src&lt;frm{servidor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1497915733556" units="1" version="1.0"/>
+</session>

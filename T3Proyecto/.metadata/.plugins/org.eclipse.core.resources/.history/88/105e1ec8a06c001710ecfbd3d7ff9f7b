@@ -1,0 +1,6 @@
+cabeceraMensajeCuenta = Cuenta
+msjfrmCuentaSinCampos = Ingrese un Numero de Cuenta y su Clave.
+msjfrmCuentaSinNumeroCuenta = Ingrese un Numero de Cuenta.
+msjfrmCuentaTarjetaOchoDigitos =  Su numero de cuenta debe tener 8 digitos.
+msjfrmCuentaSinClave = Ingrese su clave.
+msjfrmCuentaClaveCuatroDigitos = Su clave debe tener 4 digitos.
